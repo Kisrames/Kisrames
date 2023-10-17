@@ -1,5 +1,5 @@
 # 💫 About Me:
--I'm looking for internships in Software Development and Computer Engineering.<br>-I am a Student in TUS Ireland, Studying Bachelor of Engineering in Computer Engineering and Software Development<br>-I am a Java Developer and am currently working on Java Projects.<br><br><br>
+-I'm looking for jobs in Data Science or Data Analytics..<br>-I am a Student in TUS Ireland, Studying Bachelor of Engineering in Computer Engineering and Software Development, with a passion for Data Science<br>-I am a Java Developer and am currently working on Java Projects. I am also a Data analyst who works with Databricks, SQL, Python, Tableau<br><br><br>
 
 
 ## 🌐 Socials:
