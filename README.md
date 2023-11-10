@@ -1,5 +1,5 @@
 # 💫 About Me:
--I'm looking for jobs in Data Science or Data Analytics..<br>-I am a Student in TUS Ireland, Studying Bachelor of Engineering in Computer Engineering and Software Development, with a passion for Data Science<br>-I am a Java Developer and am currently working on Java Projects. I am also a Data analyst who works with Databricks, SQL, Python, Tableau<br><br><br>
+-I'm looking for jobs in Fullstack Development, Software Engineering, Data Engineering or Data Science and Analytics..<br>-I am a Student in TUS Ireland, Studying Bachelor of Engineering in Computer Engineering and Software Development, with a passion for Data Science<br>-I am a Java Developer and am currently working on Java Projects.<br>- I also am have experience with unix based systems, running virutal environments, and developing Frontend/Backend using Reactjs and Django Python with REST API. I am also a Data analyst who works with Databricks, SQL, Python, Tableau<br><br><br>
 
 
 ## 🌐 Socials:
